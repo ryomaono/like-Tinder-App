@@ -1,0 +1,19 @@
+current directory: /Users/onoryouma/projects/techpit-match/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/Users/onoryouma/.rbenv/versions/2.4.5/bin/ruby -I /Users/onoryouma/.rbenv/versions/2.4.5/lib/ruby/site_ruby/2.4.0 -r ./siteconf20190416-77872-d5cv6f.rb extconf.rb
+creating Makefile
+
+current directory: /Users/onoryouma/projects/techpit-match/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/onoryouma/projects/techpit-match/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/onoryouma/projects/techpit-match/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190416-77872-1lz21pw/byebug

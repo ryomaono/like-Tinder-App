@@ -1,0 +1,15 @@
+current directory: /Users/onoryouma/projects/techpit-match/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+/Users/onoryouma/.rbenv/versions/2.4.5/bin/ruby -I /Users/onoryouma/.rbenv/versions/2.4.5/lib/ruby/site_ruby/2.4.0 -r ./siteconf20190416-77872-dofg2z.rb extconf.rb
+creating Makefile
+
+current directory: /Users/onoryouma/projects/techpit-match/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/onoryouma/projects/techpit-match/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/onoryouma/projects/techpit-match/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190416-77872-njp04e/skiptrace
